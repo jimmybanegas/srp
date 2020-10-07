@@ -1,2 +1,0 @@
-Nombre: Adan, Apellido: Primero, Edad: 50
-Nombre: Eva, Apellido: Primero, Edad: 30
