@@ -1,0 +1,13 @@
+C:\Users\jimmy\Documents\Training\EjemploSRP\obj\Debug\netcoreapp3.1\EjemploSRP.csprojAssemblyReference.cache
+C:\Users\jimmy\Documents\Training\EjemploSRP\obj\Debug\netcoreapp3.1\EjemploSRP.AssemblyInfoInputs.cache
+C:\Users\jimmy\Documents\Training\EjemploSRP\obj\Debug\netcoreapp3.1\EjemploSRP.AssemblyInfo.cs
+C:\Users\jimmy\Documents\Training\EjemploSRP\obj\Debug\netcoreapp3.1\EjemploSRP.csproj.CoreCompileInputs.cache
+C:\Users\jimmy\Documents\Training\EjemploSRP\bin\Debug\netcoreapp3.1\EjemploSRP.exe
+C:\Users\jimmy\Documents\Training\EjemploSRP\bin\Debug\netcoreapp3.1\EjemploSRP.deps.json
+C:\Users\jimmy\Documents\Training\EjemploSRP\bin\Debug\netcoreapp3.1\EjemploSRP.runtimeconfig.json
+C:\Users\jimmy\Documents\Training\EjemploSRP\bin\Debug\netcoreapp3.1\EjemploSRP.runtimeconfig.dev.json
+C:\Users\jimmy\Documents\Training\EjemploSRP\bin\Debug\netcoreapp3.1\EjemploSRP.dll
+C:\Users\jimmy\Documents\Training\EjemploSRP\bin\Debug\netcoreapp3.1\EjemploSRP.pdb
+C:\Users\jimmy\Documents\Training\EjemploSRP\obj\Debug\netcoreapp3.1\EjemploSRP.dll
+C:\Users\jimmy\Documents\Training\EjemploSRP\obj\Debug\netcoreapp3.1\EjemploSRP.pdb
+C:\Users\jimmy\Documents\Training\EjemploSRP\obj\Debug\netcoreapp3.1\EjemploSRP.genruntimeconfig.cache
